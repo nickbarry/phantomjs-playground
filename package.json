@@ -1,7 +1,7 @@
 {
-  "name": "UPDATE_THIS",
+  "name": "PhantomJS Playground",
   "version": "0.1.0",
-  "description": "UPDATE_THIS",
+  "description": "This is my sandbox for playing around with PhantomJS",
   "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickbarry/UPDATE_THIS.git"
+    "url": "git+https://github.com/nickbarry/phantomjs-playground.git"
   },
   "author": "Nico Greenarry",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nickbarry/UPDATE_THIS/issues"
+    "url": "https://github.com/nickbarry/phantomjs-playground/issues"
   },
-  "homepage": "https://github.com/nickbarry/UPDATE_THIS#readme"
+  "homepage": "https://github.com/nickbarry/phantomjs-playground#readme"
 }
